@@ -3,6 +3,8 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+ml_project.egg-info
+
 # environment
 mlproject
 
